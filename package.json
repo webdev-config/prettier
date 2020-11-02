@@ -1,19 +1,27 @@
 {
-  "name": "prettier",
+  "name": "@webdev-config/prettier",
   "version": "1.0.0",
   "description": "Prettier configuration to be shared across repositories.",
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webdev-config/prettier"
+    "url": "git+https://github.com/webdev-config/prettier.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "reaves-tyler",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/webdev-config/prettier/issues"
   },
   "homepage": "https://github.com/webdev-config/prettier#readme",
   "dependencies": {
     "prettier": "^2.1.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier",
+    "configuration"
+  ]
 }
