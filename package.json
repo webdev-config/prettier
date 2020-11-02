@@ -1,0 +1,19 @@
+{
+  "name": "prettier",
+  "version": "1.0.0",
+  "description": "Prettier configuration to be shared across repositories.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdev-config/prettier"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdev-config/prettier/issues"
+  },
+  "homepage": "https://github.com/webdev-config/prettier#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
